@@ -6,9 +6,10 @@
     "url": "https://github.com/stephanielingwood/simple-site"
   },
   "description": "Example Site for JS FII Workshop",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.12.2",
     "grunt": "^0.4.5",
     "grunt-contrib-jshint": "^0.11.0",
     "grunt-jscs": "^1.5.0"
